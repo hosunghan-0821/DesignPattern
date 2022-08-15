@@ -17,9 +17,11 @@ public class MiniDuckSimulator {
         FlyBehavior fb= new FlyNoWAY();
         mallard.setFlyBehavior(fb);
 
-        Duck model = new ModelDuck();
-        model.performFly();
-        model.setFlyBehavior(new FlyRocketPowered());
-        model.performFly();
+
+
+//        Duck model = new ModelDuck();
+//        model.performFly();
+//        model.setFlyBehavior(new FlyRocketPowered());
+//        model.performFly();
     }
 }
