@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DesignPattern.iml" filepath="$PROJECT_DIR$/.idea/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatternStudy_Ch1_StrategyPattern/DesignPatternStudy_Ch1_StrategyPattern.iml" filepath="$PROJECT_DIR$/DesignPatternStudy_Ch1_StrategyPattern/DesignPatternStudy_Ch1_StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatternStudy_Ch2_ObserverPattern/DesignPatternStudy_Ch2_ObserverPattern.iml" filepath="$PROJECT_DIR$/DesignPatternStudy_Ch2_ObserverPattern/DesignPatternStudy_Ch2_ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatternStudy_Ch3_DecoratePattern/DesignPatternStudy_Ch3_DecoratePattern.iml" filepath="$PROJECT_DIR$/DesignPatternStudy_Ch3_DecoratePattern/DesignPatternStudy_Ch3_DecoratePattern.iml" />
     </modules>
   </component>
 </project>
