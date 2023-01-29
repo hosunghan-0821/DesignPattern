@@ -36,6 +36,8 @@ public class WeatherData implements Subject {
             observer.update();
             System.out.println("ASd");
         }
+        ArrayList<Integer> asd= new ArrayList<>();
+
     }
 
 
